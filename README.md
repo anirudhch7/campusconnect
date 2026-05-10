@@ -2,6 +2,7 @@
 
 A full-stack social platform designed for campus communities, enabling students to share posts, engage with content, and connect with peers.
 
+
 ## 🚀 Features
 
 - **User Authentication**: Secure registration and login with JWT-based authentication
