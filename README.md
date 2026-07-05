@@ -2,7 +2,6 @@
 
 A full-stack social platform designed for campus communities, enabling students to share posts, engage with content, and connect with peers.
 
-
 ## 🚀 Features
 
 - **User Authentication**: Secure registration and login with JWT-based authentication
@@ -35,6 +34,7 @@ A full-stack social platform designed for campus communities, enabling students 
 - **Multer** - File upload handling
 - **CORS** - Cross-origin resource sharing
 
+
 ## 📋 Prerequisites
 
 Before running this application, make sure you have the following installed:
@@ -42,6 +42,7 @@ Before running this application, make sure you have the following installed:
 - **Node.js** (v14 or higher)
 - **npm** or **yarn**
 - **MongoDB** (local installation or MongoDB Atlas account)
+
 
 ## 🔧 Installation
 
@@ -51,6 +52,7 @@ Before running this application, make sure you have the following installed:
 git clone https://github.com/anirudhch7/campusconnect.git
 cd campusconnect
 ```
+
 
 ### 2. Backend Setup
 
